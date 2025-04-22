@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PepsiCo Midwest",
+    "lastMonth": 10500,
+    "forecast": 12000,
+    "ytdAverage": 9800,
+    "lastUpdated": "2025-04-20"
+  },
+  {
+    "name": "PepsiCo Northeast",
+    "lastMonth": 8900,
+    "forecast": 9500,
+    "ytdAverage": 9100,
+    "lastUpdated": "2025-04-20"
+  }
+]
